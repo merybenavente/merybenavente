@@ -9,4 +9,5 @@ Previously, I co-designed and built the core ML infrastructure for automated fac
 
 ---
 My main areas of research and interest are in llm memory, data generation, localization and production evaluation.
+
 If you're working on something meaningful and think our work could align, [let's chat](mailto:hi@merybenavente.me)!
