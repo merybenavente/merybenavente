@@ -1,13 +1,35 @@
-## 👋🏼 Hi, my name is María!
-I'm an AI engineer with a builder's mindset and founding-engineer energy.
+## Hi, I'm María 👋🏼
 
-I'm currently on sabbatical, traveling and coding while exploring collaborations and meeting teams who bring a strong applied-research mindset with a real bias toward building and shipping. I care about building ambitious, thoughtful AI systems with clean design and reliable technology, and I love working closely with people who genuinely want to make things that matter.
+I research how AI agents should handle **human context and memory**. I build AI systems, from zero-to-one prototypes to globally scaled products, across **applied ML**, **evaluation**, and **data infrastructure**.
 
-Former Siri engineer at Apple, where I led the international data strategy for Siri within Apple Intelligence. Specializing in localization and production evaluation, I successfully shipped and improved models across 41 markets.
-
-Previously, I co-designed and built the core ML infrastructure for automated fact-checking at Newtral, developing custom claim detection and similarity models from scratch. The system was so innovative it was [recognized by the industry](https://www.poynter.org/fact-checking/2019/a-reason-to-be-proud-at-least-25-awards-were-given-to-ifcns-fact-checkers-in-2019/) as a breakthrough in the field.
+Right now I'm at [Recurse Center](https://www.recurse.com/), exploring **agentic systems**, **RLVR**, and leading a [DDIA study group](https://github.com/merybenavente/ddia-study-group).
 
 ---
-My main areas of research and interest are in llm memory, data generation, localization and production evaluation.
 
-If you're working on something meaningful and think our work could align, [let's chat](mailto:hi@merybenavente.me)!
+### Research
+
+- **Memory architectures for agents:** How should AI agents handle personal context? I'm exploring memory systems grounded in cognitive psychology. Paper under review
+- **[Political polarization through language](https://github.com/merybenavente/Polarization-Analysis-through-Language):** Word embeddings over 122K parliamentary interventions to track how political language shifted across Spain's crises
+
+### Projects
+
+- **[Adaptive Synth Data](https://github.com/merybenavente/adaptable_synthdatagen_system):** Self-improving data generation system using bandit-based strategy selection
+- **[RAG Search Engine](https://github.com/merybenavente/ragsearch-engine):** Vector search engine with ANN indexing built from first principles
+- **[Fact-Checking NLP](https://github.com/merybenavente/fact-checking-semantic-similarity):** Semantic similarity pipeline for automated claim verification in Spanish political discourse
+
+### Other Projects
+
+- **Proof of Capture:** Cryptographic media provenance for photos. WIP
+- **[iClaude](https://github.com/merybenavente/iclaude):** Autonomous agent that controls iOS devices through screen observation and accessibility metadata
+- **[Find My Cenote](https://github.com/merybenavente/findmy-cenote):** Open dataset mapping cenotes in the Yucatán, enriched with remote sensing and LiDAR features
+
+### Background
+
+- **Kinship:** Founding AI Research Engineer. Architected a knowledge graph synthesizing multimodal context into a personal memory interface
+- **Apple:** ML Engineer on the Siri team. Led the international data strategy for Siri. Built LLM-based evaluation systems. Part of the core Siri expansion for Vision Pro
+- **Newtral:** Built the core ML infrastructure for automated fact-checking from scratch
+- **Financial Times:** FT Labs intern, web components and accessibility tooling
+
+---
+
+[hi@merybenavente.me](mailto:hi@merybenavente.me) · [merybenavente.me](https://merybenavente.me) · [projects](https://merybenavente.me/projects) · [LinkedIn](https://linkedin.com/in/merybenavente) · [X](https://x.com/merybenavente)
