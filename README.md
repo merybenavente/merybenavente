@@ -17,7 +17,7 @@ Right now I'm at [Recurse Center](https://www.recurse.com/), exploring **agentic
 - **[RAG Search Engine](https://github.com/merybenavente/ragsearch-engine):** Vector search engine with ANN indexing built from first principles
 - **[Fact-Checking NLP](https://github.com/merybenavente/fact-checking-semantic-similarity):** Semantic similarity pipeline for automated claim verification in Spanish political discourse
 
-### Other Projects
+### Explorations
 
 - **Proof of Capture:** Cryptographic media provenance for photos. WIP
 - **[iClaude](https://github.com/merybenavente/iclaude):** Autonomous agent that controls iOS devices through screen observation and accessibility metadata
