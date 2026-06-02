@@ -9,7 +9,7 @@ Right now I'm at [Recurse Center](https://www.recurse.com/), exploring **agentic
 ### Research
 
 - **Memory architectures for agents:** How should AI agents handle personal context? I'm exploring memory systems grounded in cognitive psychology. Paper under review
-- **[Political polarization through language](https://github.com/merybenavente/Polarization-Analysis-through-Language):** Word embeddings over 122K parliamentary interventions to track how political language shifted across Spain's crises
+- **[Political polarization through language](https://github.com/merybenavente/Polarization-Analysis-through-Language):** Measuring political polarization through semantic divergence across five Spanish parliamentary legislatures
 
 ### Projects
 
