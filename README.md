@@ -19,7 +19,7 @@ Right now I'm at [Recurse Center](https://www.recurse.com/), exploring **agentic
 
 ### Explorations
 
-- **Proof of Capture:** Cryptographic media provenance for photos. WIP
+- **[Proof of Capture](https://github.com/merybenavente/proof_of_capture):** Cryptographic media provenance for photos.
 - **[iClaude](https://github.com/merybenavente/iclaude):** Autonomous agent that controls iOS devices through screen observation and accessibility metadata
 - **[Find My Cenote](https://github.com/merybenavente/findmy-cenote):** Open dataset mapping cenotes in the Yucatán, enriched with remote sensing and LiDAR features
 
